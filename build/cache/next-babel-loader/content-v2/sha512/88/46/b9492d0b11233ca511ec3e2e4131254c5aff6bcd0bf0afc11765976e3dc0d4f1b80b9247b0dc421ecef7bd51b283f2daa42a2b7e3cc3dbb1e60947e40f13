@@ -1,0 +1,1 @@
+{"ast":null,"code":"import KitchenHeader from './KitchenHeader';\nimport KitchenContent from './KitchenContent';\nimport KitchenFooter from './KitchenFooter';\nexport { KitchenHeader, KitchenContent, KitchenFooter };","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { combineReducers } from 'redux';\nimport { createCollectionReducer, createStatusReducer } from './higherOrderReducer';\nconst foodReducer = combineReducers({\n  collection: createCollectionReducer('FOOD'),\n  status: createStatusReducer('FOOD')\n});\nexport default foodReducer;","map":null,"metadata":{},"sourceType":"module"}

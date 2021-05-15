@@ -1,0 +1,1 @@
+{"ast":null,"code":"import KitchenHeader from './KitchenHeader';\nimport NewOnCheffyContent from './NewOnCheffyContent';\nimport KitchenFooter from './KitchenFooter';\nexport { KitchenHeader, NewOnCheffyContent, KitchenFooter };","map":null,"metadata":{},"sourceType":"module"}

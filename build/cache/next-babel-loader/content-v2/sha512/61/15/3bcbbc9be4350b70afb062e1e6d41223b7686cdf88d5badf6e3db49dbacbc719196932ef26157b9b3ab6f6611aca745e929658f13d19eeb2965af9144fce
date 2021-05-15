@@ -1,0 +1,1 @@
+{"ast":null,"code":"import FoodDetailHeader from './FoodDetailHeader';\nimport FoodDetailContent from './FoodDetailContent';\nexport { FoodDetailHeader, FoodDetailContent };","map":null,"metadata":{},"sourceType":"module"}

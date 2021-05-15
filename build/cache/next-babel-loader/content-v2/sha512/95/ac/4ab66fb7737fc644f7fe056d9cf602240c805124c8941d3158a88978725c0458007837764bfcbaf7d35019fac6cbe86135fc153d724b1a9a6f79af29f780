@@ -1,0 +1,1 @@
+{"ast":null,"code":"// import ChefHeader from './ChefHeader';\nimport ChefDetailContent from './ChefDetailContent';\nexport { ChefDetailContent };\nexport { default as ChefLayout } from './ChefLayout';\nexport { default as ChefContent } from './ChefContent';","map":null,"metadata":{},"sourceType":"module"}

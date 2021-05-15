@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { CheffApi } from './cheff';\nexport const cheffApi = new CheffApi();","map":null,"metadata":{},"sourceType":"module"}

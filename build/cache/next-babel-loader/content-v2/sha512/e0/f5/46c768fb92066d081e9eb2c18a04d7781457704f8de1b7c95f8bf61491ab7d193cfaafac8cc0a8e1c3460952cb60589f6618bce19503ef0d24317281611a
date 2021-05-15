@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { fetchFood, getPlateByID, getCategory } from './foodAction';\nexport { foodCategories } from './categoryAction';\nexport { popularAndNew } from './popularAndNew';\nexport { allPlates } from './popularAndNew';","map":null,"metadata":{},"sourceType":"module"}

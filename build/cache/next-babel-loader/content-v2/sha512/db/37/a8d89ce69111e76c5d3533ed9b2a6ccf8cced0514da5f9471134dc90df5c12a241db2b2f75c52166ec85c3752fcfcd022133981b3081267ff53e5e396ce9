@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var INCREMENT = 'INCREMENT';\nexport var DECREMENT = 'DECREMENT';\nexport var RESET = 'RESET';","map":null,"metadata":{},"sourceType":"module"}
